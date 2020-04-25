@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ComponentDataBindingTuto"
+    }
+  },
+  "defaultProject": "ComponentDataBindingTuto",
+  "cli": {
+    "analytics": "6e2a64fb-40ac-47c9-acef-f44cf9a0652e"
+  }
 }
